@@ -1,6 +1,8 @@
-scikit-learn
+scikit-learn==1.9.1
 fastapi
 uvicorn
 joblib
 httpx
 pytest
+mlflow==3.17.2
+skops==0.16.0
