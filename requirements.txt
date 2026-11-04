@@ -4,5 +4,7 @@ uvicorn
 joblib
 httpx
 pytest
+docker
 mlflow==3.17.2
 skops==0.16.0
+pydantic==2.10.9
